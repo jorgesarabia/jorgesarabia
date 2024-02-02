@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgesarabia&show_icons=true)](https://github.com/jorgesarabia)
+
+<img src="https://wakatime.com/share/@018d5544-91c1-4e77-b25c-34bb8d8d5740/5d1e8277-ee16-4c70-bb7f-c720a7583d55.svg" alt="Instagram Badge"/>
